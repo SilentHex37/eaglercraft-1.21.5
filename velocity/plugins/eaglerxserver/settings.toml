@@ -1,6 +1,6 @@
 # Sets the name of this EaglercraftX server that is sent with query responses and
 # used for the default "404 websocket upgrade failure" page
-server_name = "EaglercraftXServer"
+server_name = "Silent-SMP"
 # Sets the UUID of this EaglercraftX server to send with query responses, has no
 # official uses outside of server lists
 server_uuid = "2f696a6d-78de-4d0a-b6cf-f31c111243c2"
